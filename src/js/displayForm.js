@@ -16,10 +16,10 @@ function theAddStform() {
 
 <label for ="town">State</label>
 <input required type="text" id="town" placeholder="town"/>
-</fieldset>
 
 <label for ="state">State</label>
 <input required type="text" id="state" placeholder="state"/>
+
 </fieldset>
 
 <button id="addStBtn" input type="submit" value="send POST">Add State</button>
